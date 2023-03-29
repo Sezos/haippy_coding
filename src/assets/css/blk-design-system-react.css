@@ -23056,9 +23056,9 @@ input.datetimepicker[data-color="yellow"]
 }
 
 .card-register {
-  overflow: hidden;
+  /* overflow: hidden; */
   text-align: left;
-  z-index: 2;
+  /* z-index: 2; */
 }
 .card-register .card-header img {
   position: absolute;
